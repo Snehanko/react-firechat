@@ -1,0 +1,17 @@
+.Channel {
+    background:#4a47a3;
+}
+
+ul{
+    padding-top: 50px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+li{
+    border: 5px ;
+    /* background-color: #99bbad; */
+    /* padding-left: 100px; */
+    padding-bottom: 20px;
+    /* margin: 10%; */
+}
