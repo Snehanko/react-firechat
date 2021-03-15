@@ -44,7 +44,7 @@ function App() {
   })
 
   const signInWithGogle= async()=>{   
-    // Retrive Goole Provider object
+    // Retrive Google Provider object
     const provider = new firebase.auth.GoogleAuthProvider();
     //set Langugae to default browser preference
     auth.useDeviceLanguage();
